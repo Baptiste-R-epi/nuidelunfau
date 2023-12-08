@@ -1,0 +1,12 @@
+.header {
+	height: 20%;
+	position: sticky;
+	top: 0;
+	background-color:#67eb79;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+/* .headerShift {
+	height: "20%";
+} */
